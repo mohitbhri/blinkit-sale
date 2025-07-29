@@ -34,3 +34,6 @@ An interactive Power BI dashboard built to analyze Blinkit’s grocery sales dat
 - DAX
 - Exploratory Data Analysis (EDA)
 
+<img width="1511" height="854" alt="image" src="https://github.com/user-attachments/assets/6469fbeb-bf8c-4d5d-bb4f-3835f2db7ddb" />
+
+
